@@ -9,7 +9,7 @@ Este repositório reúne estudos e práticas de automação de testes em Python,
 
 Consolidar conhecimento em testes unitários e de integração.
 
-Aprender uso de frameworks como Pytest / Unittest.
+Aprender uso de frameworks como Pytest.
 
 Criar uma base organizada para futuros projetos de automação.
 
