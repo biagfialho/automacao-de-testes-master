@@ -29,8 +29,6 @@ Configuração simplificada via requirements.txt
 
 Python 3.13.6
 
-Pytest 
-
 pytest-html 
 
 
