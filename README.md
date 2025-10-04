@@ -1,11 +1,11 @@
-Automação de Testes Master 🧪⚙️
+**Automação de Testes Master**
 
 
-📌 Sobre o projeto
+📌 **Sobre o projeto**
 
 Este repositório reúne estudos e práticas de automação de testes em Python, com foco em qualidade de software e boas práticas de testes automatizados.
 
-Objetivos do projeto:
+**Objetivos do projeto:**
 
 Consolidar conhecimento em testes unitários e de integração.
 
@@ -15,7 +15,7 @@ Criar uma base organizada para futuros projetos de automação.
 
 Tornar-se referência de portfólio para QA e testes ágeis.
 
-🚀 Funcionalidades
+**Funcionalidades**
 
 Estrutura organizada de testes
 
@@ -25,12 +25,12 @@ Geração de relatórios
 
 Configuração simplificada via requirements.txt
 
-🛠️ Tecnologias utilizadas
+ **Tecnologias utilizadas**
 
-Python 3.x
+Python 3.13.6
 
-Pytest / Unittest (framework de testes)
+Pytest 
 
-pytest-html / allure (para relatórios, se configurado)
+pytest-html 
 
-GitHub Actions (opcional, para CI/CD)
+
